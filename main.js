@@ -123,5 +123,6 @@ class Taxiprice{
     
 }
 
+
 const uber = new Taxiprice("Uber","22");
 console.log(uber.getPrice());
